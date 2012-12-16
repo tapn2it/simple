@@ -10,6 +10,4 @@ releases
 target
 *.jar
 .DS_Store
-.lein-deps-sum
-.lein-plugins
-.lein-cljsbuild*
+.lein-*
